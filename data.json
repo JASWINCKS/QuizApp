@@ -1,0 +1,142 @@
+[
+    {
+        "question": "What does CPU stand for?",
+        "input_type": "radio",
+        "options": [
+            "Central Processing Unit",
+            "Central Process Unit",
+            "Computer Personal Unit",
+            "Central Processor Unit"
+        ],
+        "answer": "Central Processing Unit"
+    },
+    {
+        "question": "Which programming language is primarily used for web development?",
+        "input_type": "dropdown",
+        "options": ["Python", "JavaScript", "C++", "Java"],
+        "answer": "JavaScript"
+    },
+    {
+        "question": "What is the time complexity of binary search algorithm?",
+        "input_type": "checkbox",
+        "options": ["O(n)", "O(log n)", "O(n^2)", "O(1)"],
+        "answer": "O(log n)"
+    },
+    {
+        "question": "What is the main purpose of an operating system?",
+        "input_type": "text",
+        "answer": "To manage hardware and software resources"
+    },
+    {
+        "question": "Which data structure uses LIFO (Last In First Out) method?",
+        "input_type": "radio",
+        "options": ["Queue", "Array", "Stack", "Linked List"],
+        "answer": "Stack"
+    },
+    {
+        "question": "Which of the following is not a type of database?",
+        "input_type": "dropdown",
+        "options": ["SQL", "NoSQL", "Flat File", "HTTP"],
+        "answer": "HTTP"
+    },
+    {
+        "question": "What does HTML stand for?",
+        "input_type": "checkbox",
+        "options": [
+            "HyperText Markup Language",
+            "HyperText Machine Language",
+            "Hyper Transfer Markup Language",
+            "HyperText Marking Language"
+        ],
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "question": "Which sorting algorithm has the best average case time complexity?",
+        "input_type": "text",
+        "answer": "Merge Sort"
+    },
+    {
+        "question": "Which of the following is a NoSQL database?",
+        "input_type": "radio",
+        "options": ["MySQL", "PostgreSQL", "MongoDB", "SQLite"],
+        "answer": "MongoDB"
+    },
+    {
+        "question": "What is the purpose of DNS in networking?",
+        "input_type": "dropdown",
+        "options": [
+            "To convert domain names to IP addresses",
+            "To secure data transmission",
+            "To manage network traffic",
+            "To assign dynamic IP addresses"
+        ],
+        "answer": "To convert domain names to IP addresses"
+    },
+    {
+        "question": "Which of the following is a principle of object-oriented programming?",
+        "input_type": "checkbox",
+        "options": ["Inheritance", "Recursion", "Abstraction", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "In a relational database, a table is also known as a:",
+        "input_type": "text",
+        "answer": "Relation"
+    },
+    {
+        "question": "Which of the following is used to uniquely identify a record in a database table?",
+        "input_type": "radio",
+        "options": ["Foreign key", "Primary key", "Index", "Attribute"],
+        "answer": "Primary key"
+    },
+    {
+        "question": "Which protocol is used to send email?",
+        "input_type": "dropdown",
+        "options": ["HTTP", "FTP", "SMTP", "SNMP"],
+        "answer": "SMTP"
+    },
+    {
+        "question": "What does API stand for?",
+        "input_type": "checkbox",
+        "options": [
+            "Application Program Interface",
+            "Application Programming Interface",
+            "Application Protocol Interface",
+            "Application Proxy Interface"
+        ],
+        "answer": "Application Programming Interface"
+    },
+    {
+        "question": "Which of the following is not a programming paradigm?",
+        "input_type": "text",
+        "answer": "Relational"
+    },
+    {
+        "question": "Which data structure is used in Breadth-First Search of a graph?",
+        "input_type": "radio",
+        "options": ["Stack", "Queue", "Heap", "Tree"],
+        "answer": "Queue"
+    },
+    {
+        "question": "What is the main difference between RAM and ROM?",
+        "input_type": "dropdown",
+        "options": [
+            "RAM is non-volatile, ROM is volatile",
+            "RAM can be written to, ROM cannot be written to",
+            "RAM is used for long-term storage, ROM is used for short-term storage",
+            "RAM is slower than ROM"
+        ],
+        "answer": "RAM can be written to, ROM cannot be written to"
+    },
+    {
+        "question": "Which of the following is not an operating system?",
+        "input_type": "checkbox",
+        "options": ["Linux", "Windows", "MacOS", "Oracle"],
+        "answer": "Oracle"
+    },
+    {
+        "question": "Which of the following algorithms is used to find the shortest path in a graph?",
+        "input_type": "text",
+        "answer": "Dijkstra's Algorithm"
+    }
+]

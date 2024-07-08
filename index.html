@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="index.css">
+    <title>Quiz App</title>
+    <script src="./index.js"></script>
+</head>
+
+<body onload="show_current_question()">
+    <h1>Quiz App</h1>
+    <div id="mainBox">
+        <div id="qa_parent">
+            <div>
+                <p id="current_question"></p>
+            </div>
+            <div id="current_answers"></div>
+        </div>
+        <br>
+        <div id="nav">
+            <input type="button" value="Previous" onclick="prevQues()">
+            <input type="button" value="Check" onclick="checkAns()">
+            <input type="button" value="Next" onclick="nextQues()">
+        </div>
+        <br>
+        <div id="end_screen">
+            <div id="user_score"></div>
+            <div id="user_info"></div>
+        </div>
+    </div>
+</body>
+
+</html>
